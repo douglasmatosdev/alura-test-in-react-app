@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Componente de transações Deve renderizar uma lista de transações 1`] = `
+<div
+  data-testid="transacoes"
+>
+  <div
+    class="transacao-container"
+  >
+    <p>
+      16/12/2020
+    </p>
+    <p />
+    <p>
+      R$ 
+      50,00
+    </p>
+  </div>
+  <div
+    class="transacao-container"
+  >
+    <p>
+      26/11/2020
+    </p>
+    <p />
+    <p>
+      R$ 
+      150,00
+    </p>
+  </div>
+  <div
+    class="transacao-container"
+  >
+    <p>
+      10/10/2020
+    </p>
+    <p />
+    <p>
+      R$ 
+      100,00
+    </p>
+  </div>
+</div>
+`;
